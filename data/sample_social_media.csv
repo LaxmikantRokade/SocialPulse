@@ -1,0 +1,261 @@
+post_id,platform,post_date,post_type,caption,likes,comments,shares,reach_or_views
+POST_024,YouTube,2026-05-02,Video,How I Built a Full Stack Web App in 48 Hours 💻🔥,1878,116,67,23610
+POST_063,YouTube,2026-05-02,Community,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,2783,247,410,32941
+POST_041,YouTube,2026-05-03,Community,Behind the Scenes of our College Tech Fest 2026 🎉✨,7663,2197,2136,150385
+POST_135,Facebook,2026-05-03,Image,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",2774,377,754,38588
+POST_083,YouTube,2026-05-04,Shorts,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,10079,654,1668,115115
+POST_260,Instagram,2026-05-05,Carousel,Resume Tips That Actually Get You Software Engineering Interviews 📄,3958,292,1563,60807
+POST_001,YouTube,2026-05-07,Video,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,3634,480,256,77097
+POST_114,Facebook,2026-05-08,Post,Web Dev Trends to Watch Out For This Year 🚀,2418,187,243,42789
+POST_128,YouTube,2026-05-08,Shorts,Resume Tips That Actually Get You Software Engineering Interviews 📄,898,83,113,17056
+POST_007,Instagram,2026-05-12,Reel,Streamlit vs Dash: Which one should you learn first? 🤔,3347,487,1007,32871
+POST_044,Facebook,2026-05-12,Image,Machine Learning Roadmap for College Students 🤖📈,69,5,34,1732
+POST_030,Facebook,2026-05-13,Post,Top Open Source Projects Open for Student Contributions 🌟,3537,458,861,44238
+POST_064,YouTube,2026-05-13,Shorts,Understanding Big O Notation with Simple Real-Life Examples ⏱️,7169,2655,1198,151120
+POST_075,Facebook,2026-05-13,Video,Top Open Source Projects Open for Student Contributions 🌟,792,76,158,18549
+POST_248,Instagram,2026-05-13,Image,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,601,97,291,9624
+POST_154,Instagram,2026-05-14,Image,Best VS Code Extensions for High Productivity in 2026 ⚡,1948,182,536,19614
+POST_171,Facebook,2026-05-14,Post,How to Write Clean and Maintainable Code: Senior Dev Advice ✨,344,95,169,11696
+POST_202,Instagram,2026-05-14,Image,Project Showcase: SocialPulse Social Media Analytics Tool 📊,7254,637,533,65991
+POST_028,YouTube,2026-05-16,Video,Day in the Life of a Computer Science Student ☕💻,8951,1858,378,110544
+POST_034,YouTube,2026-05-16,Community,Project Showcase: SocialPulse Social Media Analytics Tool 📊,2965,1163,744,87209
+POST_104,Instagram,2026-05-16,Reel,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,2559,250,735,24747
+POST_149,YouTube,2026-05-16,Shorts,Understanding Big O Notation with Simple Real-Life Examples ⏱️,5393,2131,1568,109369
+POST_158,Facebook,2026-05-17,Video,Why Python is Still the King of Data Science in 2026 👑,356,81,120,9770
+POST_230,Facebook,2026-05-17,Image,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,1972,409,656,37544
+POST_233,Instagram,2026-05-17,Reel,Resume Tips That Actually Get You Software Engineering Interviews 📄,3128,505,842,43539
+POST_162,YouTube,2026-05-18,Shorts,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,2550,158,94,28914
+POST_185,Instagram,2026-05-18,Story,How I Built a Full Stack Web App in 48 Hours 💻🔥,4858,427,853,64462
+POST_213,Instagram,2026-05-18,Image,5 Mistakes I Made as a First-Year Engineering Student 🤦‍♂️,2857,524,390,48193
+POST_081,Facebook,2026-05-20,Video,Top Open Source Projects Open for Student Contributions 🌟,2476,333,190,40303
+POST_124,Facebook,2026-05-20,Video,Building an AI Agent from Scratch in Python 🧠,2158,150,438,32268
+POST_223,Facebook,2026-05-20,Post,Machine Learning Roadmap for College Students 🤖📈,1920,308,681,43280
+POST_006,Instagram,2026-05-21,Story,5 Mistakes I Made as a First-Year Engineering Student 🤦‍♂️,4405,431,1278,41427
+POST_205,Instagram,2026-05-21,Story,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,3022,355,415,52140
+POST_220,Instagram,2026-05-21,Story,Why Python is Still the King of Data Science in 2026 👑,5242,764,1269,59440
+POST_098,YouTube,2026-05-22,Shorts,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",2682,1137,692,70061
+POST_203,Instagram,2026-05-22,Image,Resume Tips That Actually Get You Software Engineering Interviews 📄,1484,332,226,24012
+POST_111,Instagram,2026-05-23,Story,Project Showcase: SocialPulse Social Media Analytics Tool 📊,2661,194,1246,44224
+POST_115,Instagram,2026-05-24,Story,Streamlit vs Dash: Which one should you learn first? 🤔,3874,452,611,32451
+POST_195,YouTube,2026-05-24,Community,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,13413,2115,390,174351
+POST_238,YouTube,2026-05-24,Community,Machine Learning Roadmap for College Students 🤖📈,10238,1841,1305,136746
+POST_161,Facebook,2026-05-25,Link,Behind the Scenes of our College Tech Fest 2026 🎉✨,1002,190,205,21983
+POST_123,Instagram,2026-05-26,Image,Behind the Scenes of our College Tech Fest 2026 🎉✨,2912,845,331,60711
+POST_165,Facebook,2026-05-27,Image,Streamlit vs Dash: Which one should you learn first? 🤔,1986,139,440,39374
+POST_042,Facebook,2026-05-28,Post,Why Python is Still the King of Data Science in 2026 👑,1107,181,248,37756
+POST_080,Instagram,2026-05-28,Image,Building an AI Agent from Scratch in Python 🧠,727,63,205,6365
+POST_014,Instagram,2026-05-29,Reel,Campus Placement Guide: Top DSA Questions You Must Practice 📚,2077,288,406,23033
+POST_173,Facebook,2026-05-29,Link,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,1217,159,239,20062
+POST_016,YouTube,2026-05-30,Community,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,12034,2375,936,145763
+POST_140,Facebook,2026-05-30,Image,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,2503,109,625,32192
+POST_166,Facebook,2026-05-30,Image,Top Open Source Projects Open for Student Contributions 🌟,1075,198,343,19756
+POST_181,YouTube,2026-05-30,Community,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,9466,2664,942,144094
+POST_023,Facebook,2026-05-31,Link,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,594,95,230,17746
+POST_252,YouTube,2026-05-31,Community,Why Python is Still the King of Data Science in 2026 👑,3805,398,477,38728
+POST_021,YouTube,2026-06-02,Video,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",11258,2277,969,177949
+POST_234,Facebook,2026-06-02,Post,Git and GitHub Cheat Sheet for Beginners 🐙⚡,1304,144,324,22276
+POST_038,Facebook,2026-06-03,Link,Campus Placement Guide: Top DSA Questions You Must Practice 📚,1664,226,691,43803
+POST_138,Instagram,2026-06-03,Image,Day in the Life of a Computer Science Student ☕💻,1670,102,258,14813
+POST_153,YouTube,2026-06-03,Video,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,489,147,85,8895
+POST_235,Instagram,2026-06-03,Carousel,Project Showcase: SocialPulse Social Media Analytics Tool 📊,4789,801,1787,59704
+POST_214,YouTube,2026-06-04,Shorts,Top Open Source Projects Open for Student Contributions 🌟,908,156,172,16622
+POST_029,Instagram,2026-06-05,Story,Campus Placement Guide: Top DSA Questions You Must Practice 📚,3187,498,1820,58296
+POST_210,Instagram,2026-06-06,Carousel,Resume Tips That Actually Get You Software Engineering Interviews 📄,3061,427,503,41177
+POST_245,Facebook,2026-06-06,Video,Resume Tips That Actually Get You Software Engineering Interviews 📄,180,89,138,7844
+POST_253,YouTube,2026-06-06,Shorts,How I Built a Full Stack Web App in 48 Hours 💻🔥,4126,595,144,57181
+POST_206,YouTube,2026-06-07,Shorts,Behind the Scenes of our College Tech Fest 2026 🎉✨,1342,767,334,41070
+POST_048,YouTube,2026-06-09,Community,Resume Tips That Actually Get You Software Engineering Interviews 📄,6070,1315,840,67059
+POST_255,YouTube,2026-06-11,Shorts,Why Python is Still the King of Data Science in 2026 👑,10730,1709,636,108010
+POST_236,Instagram,2026-06-12,Image,Project Showcase: SocialPulse Social Media Analytics Tool 📊,1594,278,372,24229
+POST_060,Instagram,2026-06-13,Story,Campus Placement Guide: Top DSA Questions You Must Practice 📚,884,154,332,14114
+POST_058,YouTube,2026-06-14,Community,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,11617,1746,2135,166353
+POST_053,Instagram,2026-06-15,Image,Why Python is Still the King of Data Science in 2026 👑,1627,383,580,37795
+POST_094,Instagram,2026-06-15,Image,How I Built a Full Stack Web App in 48 Hours 💻🔥,1752,401,563,42618
+POST_183,YouTube,2026-06-15,Video,Understanding Big O Notation with Simple Real-Life Examples ⏱️,10954,2725,2014,169613
+POST_168,Facebook,2026-06-16,Post,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,1206,98,170,19409
+POST_219,Facebook,2026-06-17,Image,How to Write Clean and Maintainable Code: Senior Dev Advice ✨,2092,193,563,34019
+POST_227,Instagram,2026-06-17,Reel,Top Open Source Projects Open for Student Contributions 🌟,5569,955,583,68410
+POST_200,Facebook,2026-06-19,Link,Top Open Source Projects Open for Student Contributions 🌟,1554,197,268,25606
+POST_113,Facebook,2026-06-22,Post,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,1006,214,198,19001
+POST_228,Facebook,2026-06-24,Link,Streamlit vs Dash: Which one should you learn first? 🤔,1544,464,472,41599
+POST_160,YouTube,2026-06-25,Community,Understanding Big O Notation with Simple Real-Life Examples ⏱️,7253,901,754,117740
+POST_170,YouTube,2026-06-25,Community,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,6153,979,705,103617
+POST_061,Instagram,2026-06-27,Image,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",1507,103,1004,29100
+POST_051,Facebook,2026-06-28,Image,Campus Placement Guide: Top DSA Questions You Must Practice 📚,345,63,138,16109
+POST_176,YouTube,2026-06-28,Community,Building an AI Agent from Scratch in Python 🧠,9408,1999,899,136140
+POST_182,YouTube,2026-06-30,Video,Top Open Source Projects Open for Student Contributions 🌟,1285,228,314,31949
+POST_020,Instagram,2026-07-01,Reel,Top Open Source Projects Open for Student Contributions 🌟,624,117,94,13322
+POST_101,Instagram,2026-07-01,Carousel,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,2169,125,444,25782
+POST_086,Facebook,2026-07-02,Link,Best VS Code Extensions for High Productivity in 2026 ⚡,1731,277,278,31955
+POST_237,Facebook,2026-07-04,Post,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,834,107,73,14364
+POST_131,Facebook,2026-07-05,Link,Web Dev Trends to Watch Out For This Year 🚀,156,14,16,2115
+POST_103,Instagram,2026-07-07,Carousel,How to Write Clean and Maintainable Code: Senior Dev Advice ✨,2140,275,706,28928
+POST_258,Instagram,2026-07-07,Story,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,3207,328,332,32824
+POST_011,Facebook,2026-07-08,Link,Why Python is Still the King of Data Science in 2026 👑,190,66,104,5837
+POST_218,Instagram,2026-07-09,Image,Understanding Big O Notation with Simple Real-Life Examples ⏱️,2007,159,328,19315
+POST_093,Instagram,2026-07-10,Story,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,6296,1059,2151,71765
+POST_152,Instagram,2026-07-10,Reel,Streamlit vs Dash: Which one should you learn first? 🤔,2613,208,635,21964
+POST_136,YouTube,2026-07-13,Shorts,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",4735,629,671,65324
+POST_102,YouTube,2026-07-14,Shorts,Understanding Big O Notation with Simple Real-Life Examples ⏱️,626,207,150,13556
+POST_216,Facebook,2026-07-15,Post,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,332,58,54,14711
+POST_133,Facebook,2026-07-17,Link,Building an AI Agent from Scratch in Python 🧠,1163,153,70,14555
+POST_145,Instagram,2026-07-17,Reel,Building an AI Agent from Scratch in Python 🧠,3330,393,1427,67569
+POST_186,Facebook,2026-07-19,Post,Campus Placement Guide: Top DSA Questions You Must Practice 📚,1496,81,544,31760
+POST_092,Instagram,2026-07-20,Carousel,Day in the Life of a Computer Science Student ☕💻,1856,269,479,18670
+POST_175,Facebook,2026-07-23,Image,Building an AI Agent from Scratch in Python 🧠,191,88,56,9363
+POST_221,Instagram,2026-07-23,Reel,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,2693,427,742,41750
+POST_246,Instagram,2026-07-23,Carousel,Understanding Big O Notation with Simple Real-Life Examples ⏱️,2427,216,1534,43988
+POST_125,YouTube,2026-07-24,Video,Top Open Source Projects Open for Student Contributions 🌟,8200,1313,1643,144885
+POST_049,Instagram,2026-07-25,Carousel,How to Write Clean and Maintainable Code: Senior Dev Advice ✨,5934,761,1670,56964
+POST_068,Instagram,2026-07-25,Image,Building an AI Agent from Scratch in Python 🧠,5004,178,427,44904
+POST_120,Facebook,2026-07-25,Image,Day in the Life of a Computer Science Student ☕💻,2477,217,710,37670
+POST_073,Instagram,2026-07-26,Story,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",5483,732,1824,55994
+POST_004,Instagram,2026-07-27,Story,Campus Placement Guide: Top DSA Questions You Must Practice 📚,2067,571,595,39421
+POST_189,Facebook,2026-07-27,Post,Understanding Big O Notation with Simple Real-Life Examples ⏱️,353,26,50,7026
+POST_196,Instagram,2026-07-27,Carousel,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,3694,1001,643,66736
+POST_027,YouTube,2026-07-30,Shorts,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,6820,2067,313,116038
+POST_005,Facebook,2026-07-31,Post,Web Dev Trends to Watch Out For This Year 🚀,1351,242,370,24041
+POST_190,Facebook,2026-08-02,Video,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,1947,152,419,25935
+POST_250,Facebook,2026-08-02,Link,Web Dev Trends to Watch Out For This Year 🚀,196,34,28,4465
+POST_040,Instagram,2026-08-03,Carousel,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",2123,524,1053,40353
+POST_046,Instagram,2026-08-03,Reel,How I Built a Full Stack Web App in 48 Hours 💻🔥,1666,78,357,22410
+POST_079,Facebook,2026-08-03,Image,Top Open Source Projects Open for Student Contributions 🌟,704,145,190,12496
+POST_142,Instagram,2026-08-03,Story,Streamlit vs Dash: Which one should you learn first? 🤔,3241,480,1240,37362
+POST_244,Facebook,2026-08-03,Video,How to Write Clean and Maintainable Code: Senior Dev Advice ✨,1892,182,385,35249
+POST_050,Instagram,2026-08-06,Reel,Understanding Big O Notation with Simple Real-Life Examples ⏱️,877,45,238,8075
+POST_259,YouTube,2026-08-06,Community,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,3827,344,413,43738
+POST_054,Facebook,2026-08-07,Post,Project Showcase: SocialPulse Social Media Analytics Tool 📊,1233,96,409,39287
+POST_122,Facebook,2026-08-07,Link,How I Built a Full Stack Web App in 48 Hours 💻🔥,3039,383,251,44995
+POST_251,Facebook,2026-08-07,Post,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",1624,259,588,34546
+POST_032,Facebook,2026-08-08,Post,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,1427,185,148,18880
+POST_212,YouTube,2026-08-08,Video,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,4238,1306,878,128243
+POST_074,YouTube,2026-08-09,Video,Behind the Scenes of our College Tech Fest 2026 🎉✨,11132,710,1658,160161
+POST_012,Instagram,2026-08-10,Story,Web Dev Trends to Watch Out For This Year 🚀,3247,295,1726,63142
+POST_141,YouTube,2026-08-10,Community,Web Dev Trends to Watch Out For This Year 🚀,8401,2515,329,151096
+POST_174,Instagram,2026-08-10,Carousel,Behind the Scenes of our College Tech Fest 2026 🎉✨,413,67,115,10180
+POST_180,Facebook,2026-08-10,Post,Campus Placement Guide: Top DSA Questions You Must Practice 📚,1413,92,354,21834
+POST_097,Instagram,2026-08-11,Reel,Behind the Scenes of our College Tech Fest 2026 🎉✨,3097,711,445,67454
+POST_090,Facebook,2026-08-12,Video,Project Showcase: SocialPulse Social Media Analytics Tool 📊,669,136,192,17445
+POST_031,Instagram,2026-08-13,Carousel,Machine Learning Roadmap for College Students 🤖📈,5232,891,2137,66653
+POST_112,Instagram,2026-08-14,Story,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,555,74,279,10104
+POST_062,Instagram,2026-08-15,Story,Behind the Scenes of our College Tech Fest 2026 🎉✨,2776,216,483,28485
+POST_118,Instagram,2026-08-15,Image,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,5455,432,1408,47548
+POST_257,Facebook,2026-08-15,Post,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,1528,436,708,39753
+POST_070,Instagram,2026-08-16,Carousel,Top Open Source Projects Open for Student Contributions 🌟,6074,540,1398,54049
+POST_076,Facebook,2026-08-16,Image,How I Built a Full Stack Web App in 48 Hours 💻🔥,1263,120,283,18032
+POST_209,Instagram,2026-08-16,Carousel,Web Dev Trends to Watch Out For This Year 🚀,2832,820,1257,62914
+POST_059,Facebook,2026-08-19,Video,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,2228,206,415,39509
+POST_084,Facebook,2026-08-20,Video,Web Dev Trends to Watch Out For This Year 🚀,835,152,99,13043
+POST_085,Facebook,2026-08-20,Link,Campus Placement Guide: Top DSA Questions You Must Practice 📚,1455,424,690,40328
+POST_127,YouTube,2026-08-20,Video,Machine Learning Roadmap for College Students 🤖📈,2563,470,101,30806
+POST_177,YouTube,2026-08-20,Video,Resume Tips That Actually Get You Software Engineering Interviews 📄,616,51,60,9912
+POST_132,Instagram,2026-08-22,Reel,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,5747,318,1635,48293
+POST_148,Instagram,2026-08-22,Story,Web Dev Trends to Watch Out For This Year 🚀,3681,142,868,33947
+POST_207,YouTube,2026-08-23,Shorts,Behind the Scenes of our College Tech Fest 2026 🎉✨,5050,876,885,166309
+POST_222,Facebook,2026-08-23,Image,Resume Tips That Actually Get You Software Engineering Interviews 📄,271,47,57,4275
+POST_099,Instagram,2026-08-24,Story,5 Mistakes I Made as a First-Year Engineering Student 🤦‍♂️,3892,614,1090,61028
+POST_204,Instagram,2026-08-24,Carousel,Git and GitHub Cheat Sheet for Beginners 🐙⚡,5586,389,824,48820
+POST_229,Instagram,2026-08-24,Reel,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,2867,213,195,25630
+POST_008,Facebook,2026-08-25,Image,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,3023,156,390,43160
+POST_017,Facebook,2026-08-25,Video,Project Showcase: SocialPulse Social Media Analytics Tool 📊,132,18,12,1712
+POST_159,Facebook,2026-08-25,Image,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,1950,103,517,34631
+POST_242,Facebook,2026-08-25,Image,Understanding Big O Notation with Simple Real-Life Examples ⏱️,385,22,63,6282
+POST_105,Facebook,2026-08-28,Post,Best VS Code Extensions for High Productivity in 2026 ⚡,1328,244,246,21428
+POST_096,YouTube,2026-08-29,Shorts,Best VS Code Extensions for High Productivity in 2026 ⚡,7938,906,348,130492
+POST_109,Facebook,2026-08-29,Post,Machine Learning Roadmap for College Students 🤖📈,1081,126,116,24303
+POST_143,YouTube,2026-08-29,Video,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",848,220,72,11560
+POST_026,YouTube,2026-08-30,Community,Streamlit vs Dash: Which one should you learn first? 🤔,5834,1162,307,68700
+POST_254,Instagram,2026-08-30,Image,Why Python is Still the King of Data Science in 2026 👑,5440,730,1454,71069
+POST_071,YouTube,2026-08-31,Shorts,Resume Tips That Actually Get You Software Engineering Interviews 📄,628,57,46,6545
+POST_087,Facebook,2026-09-02,Video,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",635,70,119,15401
+POST_172,Facebook,2026-09-02,Link,Streamlit vs Dash: Which one should you learn first? 🤔,1920,195,653,41285
+POST_147,YouTube,2026-09-03,Video,Git and GitHub Cheat Sheet for Beginners 🐙⚡,9745,3198,403,166389
+POST_232,Instagram,2026-09-04,Carousel,Web Dev Trends to Watch Out For This Year 🚀,443,63,122,6445
+POST_116,YouTube,2026-09-05,Video,Best VS Code Extensions for High Productivity in 2026 ⚡,5348,682,1047,81509
+POST_247,Facebook,2026-09-05,Image,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,76,17,32,3018
+POST_201,Facebook,2026-09-06,Link,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",1627,130,230,36067
+POST_043,Instagram,2026-09-07,Image,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,4027,931,437,67032
+POST_035,Instagram,2026-09-08,Reel,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,1459,51,95,13500
+POST_025,Facebook,2026-09-09,Post,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,627,117,208,17097
+POST_155,Facebook,2026-09-09,Image,How I Built a Full Stack Web App in 48 Hours 💻🔥,1072,284,770,40406
+POST_108,Instagram,2026-09-10,Story,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,6906,315,1375,60963
+POST_037,YouTube,2026-09-11,Community,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,8391,639,994,87934
+POST_067,Instagram,2026-09-11,Image,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,5995,418,487,66517
+POST_156,YouTube,2026-09-11,Community,Best VS Code Extensions for High Productivity in 2026 ⚡,5217,1633,234,84070
+POST_211,Instagram,2026-09-12,Reel,Project Showcase: SocialPulse Social Media Analytics Tool 📊,2282,468,1016,50265
+POST_129,Instagram,2026-09-13,Carousel,Campus Placement Guide: Top DSA Questions You Must Practice 📚,4861,713,575,57008
+POST_139,Instagram,2026-09-13,Image,Best VS Code Extensions for High Productivity in 2026 ⚡,7776,891,874,68771
+POST_256,YouTube,2026-09-14,Community,Git and GitHub Cheat Sheet for Beginners 🐙⚡,10621,1173,1681,133410
+POST_249,Facebook,2026-09-15,Image,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,144,12,36,2035
+POST_022,Facebook,2026-09-16,Video,Git and GitHub Cheat Sheet for Beginners 🐙⚡,921,87,211,14682
+POST_072,YouTube,2026-09-17,Community,Best VS Code Extensions for High Productivity in 2026 ⚡,15146,1926,905,163139
+POST_217,YouTube,2026-09-17,Shorts,Git and GitHub Cheat Sheet for Beginners 🐙⚡,6162,2072,578,129098
+POST_066,YouTube,2026-09-18,Shorts,How to Write Clean and Maintainable Code: Senior Dev Advice ✨,11312,1937,995,121893
+POST_091,Facebook,2026-09-18,Link,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,952,151,190,23178
+POST_045,YouTube,2026-09-19,Shorts,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,8111,678,1673,117115
+POST_117,Instagram,2026-09-19,Story,Behind the Scenes of our College Tech Fest 2026 🎉✨,1552,308,444,21958
+POST_151,Instagram,2026-09-19,Reel,Top Open Source Projects Open for Student Contributions 🌟,2620,384,361,30152
+POST_088,YouTube,2026-09-20,Shorts,Resume Tips That Actually Get You Software Engineering Interviews 📄,506,54,39,7661
+POST_163,Facebook,2026-09-20,Video,Streamlit vs Dash: Which one should you learn first? 🤔,299,41,46,5430
+POST_065,YouTube,2026-09-21,Community,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,8410,2591,1249,161094
+POST_082,Facebook,2026-09-22,Post,Project Showcase: SocialPulse Social Media Analytics Tool 📊,171,26,38,4191
+POST_169,Instagram,2026-09-22,Carousel,Campus Placement Guide: Top DSA Questions You Must Practice 📚,2530,660,1896,55531
+POST_036,Facebook,2026-09-23,Post,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,965,42,77,17635
+POST_225,Facebook,2026-09-23,Link,Git and GitHub Cheat Sheet for Beginners 🐙⚡,203,31,69,3622
+POST_121,YouTube,2026-09-24,Video,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,4884,1729,270,105393
+POST_188,Instagram,2026-09-24,Story,How I Built a Full Stack Web App in 48 Hours 💻🔥,1818,240,263,27672
+POST_226,Facebook,2026-09-24,Post,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,544,62,147,10523
+POST_134,YouTube,2026-09-25,Shorts,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,8213,720,1214,82561
+POST_013,Facebook,2026-09-27,Link,Best VS Code Extensions for High Productivity in 2026 ⚡,1154,331,148,27675
+POST_119,YouTube,2026-09-28,Shorts,Web Dev Trends to Watch Out For This Year 🚀,15690,1858,617,157023
+POST_002,YouTube,2026-09-29,Video,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",3725,635,580,115604
+POST_015,Facebook,2026-09-30,Link,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,1664,376,567,32174
+POST_019,Instagram,2026-10-01,Reel,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,3597,197,722,45487
+POST_106,Facebook,2026-10-01,Post,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,301,38,54,4112
+POST_239,YouTube,2026-10-02,Community,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,8319,1217,1190,93504
+POST_009,Facebook,2026-10-03,Post,Building an AI Agent from Scratch in Python 🧠,1304,400,249,43113
+POST_208,YouTube,2026-10-03,Community,Streamlit vs Dash: Which one should you learn first? 🤔,8547,2353,729,143352
+POST_224,Instagram,2026-10-03,Carousel,Git and GitHub Cheat Sheet for Beginners 🐙⚡,2585,230,1713,60432
+POST_243,Instagram,2026-10-03,Image,Git and GitHub Cheat Sheet for Beginners 🐙⚡,1419,253,589,21830
+POST_100,YouTube,2026-10-04,Video,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,2987,227,147,31013
+POST_199,Instagram,2026-10-04,Story,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,4042,500,484,40346
+POST_187,YouTube,2026-10-05,Video,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,10527,1832,1479,160734
+POST_126,Facebook,2026-10-06,Post,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,203,52,47,5984
+POST_130,YouTube,2026-10-06,Shorts,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,4417,908,341,68132
+POST_039,Instagram,2026-10-07,Story,Git and GitHub Cheat Sheet for Beginners 🐙⚡,738,89,208,16104
+POST_078,Instagram,2026-10-07,Reel,Day in the Life of a Computer Science Student ☕💻,1357,199,193,22973
+POST_018,Instagram,2026-10-08,Reel,Git and GitHub Cheat Sheet for Beginners 🐙⚡,4520,382,461,42117
+POST_137,Facebook,2026-10-08,Video,Understanding Big O Notation with Simple Real-Life Examples ⏱️,583,66,64,7867
+POST_241,Instagram,2026-10-08,Story,College Vlog: Semester Exam Preparation & Caffeine Rush ☕📖,4707,1078,1452,74509
+POST_191,YouTube,2026-10-09,Video,Building an AI Agent from Scratch in Python 🧠,9332,1620,1616,174687
+POST_144,Instagram,2026-10-10,Reel,Behind the Scenes of our College Tech Fest 2026 🎉✨,7199,423,1101,63852
+POST_178,YouTube,2026-10-11,Shorts,Machine Learning Roadmap for College Students 🤖📈,5755,1199,1667,114495
+POST_231,YouTube,2026-10-11,Community,Day in the Life of a Computer Science Student ☕💻,4332,614,181,50636
+POST_052,Facebook,2026-10-12,Image,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,1534,412,422,34884
+POST_150,Instagram,2026-10-12,Carousel,5 Mistakes I Made as a First-Year Engineering Student 🤦‍♂️,255,40,201,5799
+POST_184,YouTube,2026-10-12,Community,Why Python is Still the King of Data Science in 2026 👑,16992,1573,2508,171539
+POST_194,YouTube,2026-10-12,Shorts,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,7919,1341,1164,91108
+POST_240,Instagram,2026-10-12,Reel,Docker Basics in 5 Minutes: Containers Explained Simply 🐳,3470,459,659,37688
+POST_003,Instagram,2026-10-14,Carousel,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,5474,624,993,74426
+POST_077,Facebook,2026-10-14,Video,Top 5 Free APIs Every Developer Needs to Build Cool Projects 🌐,400,51,94,5996
+POST_193,Facebook,2026-10-15,Image,Hackathon Winning Strategy: From Idea to Working MVP in 24h 🏆,1953,356,850,44893
+POST_192,Facebook,2026-10-16,Image,Behind the Scenes of our College Tech Fest 2026 🎉✨,2968,218,529,40998
+POST_033,YouTube,2026-10-17,Community,5 Mistakes I Made as a First-Year Engineering Student 🤦‍♂️,5413,1159,1934,132577
+POST_056,YouTube,2026-10-17,Shorts,Resume Tips That Actually Get You Software Engineering Interviews 📄,3027,331,226,37669
+POST_197,Instagram,2026-10-17,Reel,Behind the Scenes of our College Tech Fest 2026 🎉✨,5190,491,1080,47140
+POST_164,Facebook,2026-10-18,Image,"Quick Guide to SQL Queries: Group By, Joins, and Indexes 🗄️",2106,269,568,29217
+POST_055,YouTube,2026-10-19,Community,Why Python is Still the King of Data Science in 2026 👑,3143,290,602,56651
+POST_146,Facebook,2026-10-19,Image,Resume Tips That Actually Get You Software Engineering Interviews 📄,1666,347,207,36902
+POST_107,Instagram,2026-10-20,Carousel,How I Built a Full Stack Web App in 48 Hours 💻🔥,686,63,74,5719
+POST_167,YouTube,2026-10-20,Community,Cybersecurity 101: How to Keep Your Web Apps Safe 🛡️,11965,2384,1830,173479
+POST_047,Facebook,2026-10-22,Video,Resume Tips That Actually Get You Software Engineering Interviews 📄,1071,98,223,17853
+POST_010,Facebook,2026-10-23,Video,How I Built a Full Stack Web App in 48 Hours 💻🔥,1605,222,156,22752
+POST_157,Facebook,2026-10-23,Link,Campus Placement Guide: Top DSA Questions You Must Practice 📚,423,95,36,8575
+POST_089,Facebook,2026-10-24,Video,Campus Placement Guide: Top DSA Questions You Must Practice 📚,1921,225,538,32701
+POST_179,YouTube,2026-10-24,Shorts,5 Mistakes I Made as a First-Year Engineering Student 🤦‍♂️,3611,1748,515,99857
+POST_110,Facebook,2026-10-25,Link,Web Dev Trends to Watch Out For This Year 🚀,1266,389,571,33971
+POST_198,Instagram,2026-10-25,Carousel,Building REST APIs with FastAPI vs Flask: Benchmark Test ⚡,2412,87,393,24697
+POST_057,Facebook,2026-10-26,Link,Building an AI Agent from Scratch in Python 🧠,1111,81,298,20876
+POST_095,YouTube,2026-10-26,Shorts,10 Must-Know Python Tricks for Beginners 🚀 #coding #python,2844,611,127,38103
+POST_215,YouTube,2026-10-26,Shorts,Top Open Source Projects Open for Student Contributions 🌟,9681,2215,367,130444
+POST_069,YouTube,2026-10-28,Video,Resume Tips That Actually Get You Software Engineering Interviews 📄,2107,642,553,61086
